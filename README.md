@@ -25,7 +25,6 @@ I am a junior software developer . I love programming, gaming  and traveling.
 📊 **This Week I Spent My Time On:**
 <!--START_SECTION:waka-->
 ```text
-No Activity tracked this Week
 ```
 <!--END_SECTION:waka-->
 
