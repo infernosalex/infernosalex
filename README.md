@@ -18,7 +18,7 @@ I am a junior software developer . I love programming, gaming  and traveling.
 - 🚀 I’m currently learning Data Structures and Algorithms on [hackerrank](https://www.hackerrank.com/alexscanteie0808);
 - 💬 Ask me about anything, I am happy to help;
 - 📫 How to reach me: alexscanteie0808@gmail.com;
-- 📝 [Resume](https://www.alexscanteie.com/resume.pdf).
+- 📝 [Resume](https://www.alexscanteie.me/resume.pdf).
 
 </br>
 
