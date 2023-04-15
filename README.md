@@ -6,7 +6,8 @@
 
 ### Glad to see you here! &nbsp;
 
-I am a junior software developer . I love programming, gaming  and traveling.
+Hi , I'm Alex a programming enthusiast ... Now I will tell you something about me:
+As a junior software developer, I am passionate about programming, gaming, and traveling. I enjoy creating innovative solutions and constantly improving my skills in this ever-evolving field. I thrive in collaborative environments, contribute creative problem-solving ideas, and am eager to learn and grow. 
 
 
 <img align="right" alt="GIF" src="https://github.com/Gapur/Gapur/blob/master/coding.gif?raw=true" width="408" height="318" />
@@ -25,7 +26,7 @@ I am a junior software developer . I love programming, gaming  and traveling.
 📊 **This Week I Spent My Time On:**
 <!--START_SECTION:waka-->
 ```text
-nothing :(
+Rust🦞, NextJS and build best computer with Raspberry Pi's 🍓
 ```
 <!--END_SECTION:waka-->
 
