@@ -17,7 +17,7 @@
   - Qualified for Defcamp Finals CTF
   - Qualified for the Romanian National Artificial Intelligence Contest
 
-📊 **This Month I Spent My Time On:**
+📊 **I Spent My Time On:**
 <!--START_SECTION:waka-->
 ```text
 Rust🦞, Cryptography 🧠 , Post-Quantum papers ⚛
